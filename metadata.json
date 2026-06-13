@@ -1,0 +1,6 @@
+{
+  "name": "Radiational Wave Generator 7429Hz",
+  "description": "Interactive electrical wave and radiational current simulator at 7429Hz using Web Audio synthesis and real-time canvas visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
